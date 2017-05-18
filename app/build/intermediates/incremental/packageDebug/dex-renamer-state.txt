@@ -1,0 +1,7 @@
+#Wed May 17 16:00:23 NZST 2017
+base.0=C\:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2cfcc319016fd94e0bd258c4fa45e84387e541c5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_76ed4596c4c7b0c8c2c7444f3098288dcff7338e\\classes.dex
+base.1=C\:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_76ed4596c4c7b0c8c2c7444f3098288dcff7338e
+file.0=C\:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2cfcc319016fd94e0bd258c4fa45e84387e541c5\\classes.dex

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entries_color_preference">
+        <item>Black text on white</item>
+        <item>White text on black</item>
+        <item>White text on blue</item>  
+    </string-array>
+    <string-array name="entries_controlkey_preference">
+        <item>Jog ball</item>
+        <item>\@</item>
+        <item>Left Alt</item>
+        <item>Right Alt</item>
+    </string-array>
+    <string-array name="entries_fontsize_preference">
+        <item>6 pt</item>
+        <item>7 pt</item>
+        <item>8 pt</item>
+        <item>9 pt</item>
+        <item>10 pt</item>
+        <item>12 pt</item>
+        <item>14 pt</item>
+        <item>16 pt</item>
+        <item>20 pt</item>
+    </string-array>
+    <string-array name="entryvalues_color_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>  
+    </string-array>
+    <string-array name="entryvalues_controlkey_preference">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="entryvalues_fontsize_preference">
+        <item>0</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>20</item>  
+    </string-array>
+    <color name="bg_1_color">#F7F7F7</color>
+    <color name="bg_2_color">#EEEEEE</color>
+    <color name="bg_3_color">#D3D9D1</color>
+    <color name="black">#000000</color>
+    <color name="btn_red_pressed">#50FF3300</color>
+    <color name="btn_yellow">#F46C00</color>
+    <color name="btn_yellow_pressed">#50FF9900</color>
+    <color name="gray">#C9C2C2</color>
+    <color name="gray_dark">#666666</color>
+    <color name="gray_text">#858585</color>
+    <color name="half_back">#A0FFFFFF</color>
+    <color name="half_gray">#50858585</color>
+    <color name="half_gray1">#A0C9C2C2</color>
+    <color name="half_top_color">#5015B74E</color>
+    <color name="half_trans">#50000000</color>
+    <color name="jijiaColor">#228B22</color>
+    <color name="main_color">#29A300</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="qfk_normal">#FF0000</color>
+    <color name="qfk_pressed">#A0FF0000</color>
+    <color name="qrwx_normal">#15B74E</color>
+    <color name="qrwx_pressed">#A015B74E</color>
+    <color name="qyy_normal">#443FF5</color>
+    <color name="qyy_pressed">#A0443FF5</color>
+    <color name="red">#FF3300</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sblue">#3BA8FC</color>
+    <color name="shop_text1">#F39800</color>
+    <color name="simple_grya">#50C9C2C2</color>
+    <color name="simple_main_color">#27AE62</color>
+    <color name="tab_nopresed">#787878</color>
+    <color name="tab_normal">#BCBCBC</color>
+    <color name="tab_presed">#228B22</color>
+    <color name="topbar_color">#15B74E</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yibanColor">#4D4D4D</color>
+    <color name="zcgm_nromal">#00C2A6</color>
+    <color name="zcgm_pressed">#A000C2A6</color>
+    <color name="zhaogaoColor">#FF0000</color>
+    <declare-styleable name="EmulatorView"/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_bottom">35dp</dimen>
+    <string name="alert_dialog_no">No</string>
+    <string name="alert_dialog_no_bt">Cannot use this application without bluetooth.</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_turn_on_bt">This application needs the Bluetooth. Do you want turn on?</string>
+    <string name="alert_dialog_warning_title">Warning</string>
+    <string name="alert_dialog_yes">Yes</string>
+    <string name="app_name">LazyBone BLE</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="changepassword">Change Password</string>
+    <string name="connect">Connect device</string>
+    <string name="default_value_color_preference">2</string>
+    <string name="default_value_controlkey_preference">0</string>
+    <string name="default_value_fontsize_preference">10</string>
+    <string name="default_value_localecho_preference">false</string>
+    <string name="dialog_title_color_preference">Text color</string>
+    <string name="dialog_title_controlkey_preference">Control key</string>
+    <string name="dialog_title_fontsize_preference">Font size</string>
+    <string name="disconnect">Disconnect device</string>
+    <string name="general_preferences">General</string>
+    <string name="keyboard_preferences">Keyboard</string>
+    <string name="mode">Mode</string>
+    <string name="none_found">No devices found</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="preferences">exit</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="special_keys">Special keys</string>
+    <string name="summary_color_preference">Choose text color.</string>
+    <string name="summary_controlkey_preference">Choose control key.</string>
+    <string name="summary_fontsize_preference">Choose character height in points.</string>
+    <string name="summary_localecho_preference">Display the key strokes</string>
+    <string name="text_preferences">Text</string>
+    <string name="title_color_preference">Colors</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_controlkey_preference">Control key</string>
+    <string name="title_document_key_press">Press</string>
+    <string name="title_document_key_rest">and Key</string>
+    <string name="title_fontsize_preference">Font size</string>
+    <string name="title_localhecho_preference">Local echo</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="unknown_device">Unknown device</string>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_normal.xml",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable\\item_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_device.xml",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable\\item_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cb_selector.xml",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable\\cb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon1.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_select.xml",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable\\item_select.xml"
+    }
+]

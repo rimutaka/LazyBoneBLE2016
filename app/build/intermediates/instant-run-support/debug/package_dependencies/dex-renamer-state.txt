@@ -1,0 +1,4 @@
+#Wed May 17 16:00:22 NZST 2017
+base.0=C\:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\umeng-analytics-v5.6.1_ea0387321062c31a86b12eab216b6bd8001e5b7f
+renamed.0=classes.dex
+file.0=C\:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\umeng-analytics-v5.6.1_ea0387321062c31a86b12eab216b6bd8001e5b7f\\classes.dex

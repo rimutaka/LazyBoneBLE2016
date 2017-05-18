@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon80.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\icon80.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\im_conneted.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\im_conneted.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\im_bg.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\im_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\im_logo.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\im_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cb_off.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\cb_off.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_bg.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\ic_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\im_connecting.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\im_connecting.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\im_search.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\im_search.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_selected.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\btn_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_normal.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cb_on.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\cb_on.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\im_disconnect.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-hdpi\\im_disconnect.png"
+    }
+]

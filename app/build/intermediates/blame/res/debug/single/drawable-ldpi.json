@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\xx.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-ldpi\\xx.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\max\\Documents\\Projects\\android\\LazyBoneBLE2016\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

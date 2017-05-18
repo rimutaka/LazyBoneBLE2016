@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\max\Documents\Projects\android\LazyBoneBLE2016\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="799a0d030772e60141e289992c1107a690475259">
+        <dex dex="C:\Users\max\Documents\Projects\android\LazyBoneBLE2016\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2cfcc319016fd94e0bd258c4fa45e84387e541c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\max\Documents\Projects\android\LazyBoneBLE2016\app\libs\umeng-analytics-v5.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2705cbb19f52bb4d242458163a98d9e889c1292">
+        <dex dex="C:\Users\max\Documents\Projects\android\LazyBoneBLE2016\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.6.1_ea0387321062c31a86b12eab216b6bd8001e5b7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\max\Documents\Projects\android\LazyBoneBLE2016\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\max\Documents\Projects\android\LazyBoneBLE2016\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_76ed4596c4c7b0c8c2c7444f3098288dcff7338e\classes.dex" />
+    </item>
+
+</items>
